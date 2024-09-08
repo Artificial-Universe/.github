@@ -46,6 +46,6 @@ Aqui estão algumas das tecnologias que exploramos em nossos projetos:
 
 - [GitHub](https://github.com/Artificial-Universe)
 - [Discord](#)
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/aiexxplorer/)
 
 Junte-se a nós e faça parte do **Artificial Universe**, onde a inovação e o conhecimento não têm limites! ✨
